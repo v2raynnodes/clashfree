@@ -34,7 +34,7 @@
 
 ## 免费clash节点分享  <a href="" target="_blank">点击下载</a>
 
-## v2ray/clash 订阅列表:
+## clash 订阅列表:
 
  | 订阅链接 | [镜像加速订阅链接](https://gh-proxy.com/) | 更新日期 |
  | ---- | ---- | ---- |
