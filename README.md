@@ -38,14 +38,14 @@
 
  | 订阅链接 | [镜像加速订阅链接](https://gh-proxy.com/) | 更新日期 |
  | ---- | ---- | ---- |
-|[nodes/yudou66.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.yaml) | [nodes/yudou66.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.yaml) | 2025-11-17 |
-|[nodes/blues.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/blues.yaml)| [nodes/blues.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/blues.yaml) | 2025-11-18 |
-| [nodes/clashmeta.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.yaml) |[nodes/clashmeta.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.yaml) | 2025-10-13 |
-|[nodes/ndnode.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.yaml) |[nodes/ndnode.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.yaml) | 2025-11-19 |
-|[nodes/nodev2ray.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.yaml) |[nodes/nodev2ray.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.yaml) | 2025-11-19 |
-| [noddes/nodefree.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.yaml) |[noddes/nodefree.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.yaml) | 2025-11-18 |
-| [nodes/v2rayshare.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.yaml) | [nodes/v2rayshare.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.yaml) | 2025-11-18 |
-| [nodes/wenode.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.yaml) | [nodes/wenode.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.yaml) | 2025-11-18 |
+|[nodes/yudou66.yaml](https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/yudou66.yaml) | [nodes/yudou66.yaml](https://gh-proxy.com/raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/yudou66.yaml) | 2025-11-17 |
+|[nodes/blues.yaml](https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/blues.yaml)| [nodes/blues.yaml](https://gh-proxy.com/raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/blues.yaml) | 2025-11-18 |
+| [nodes/clashmeta.yaml](https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/clashmeta.yaml) |[nodes/clashmeta.yaml](https://gh-proxy.com/raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/clashmeta.yaml) | 2025-10-13 |
+|[nodes/ndnode.yaml](https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/ndnode.yaml) |[nodes/ndnode.yaml](https://gh-proxy.com/raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/ndnode.yaml) | 2025-11-19 |
+|[nodes/nodev2ray.yaml](https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/nodev2ray.yaml) |[nodes/nodev2ray.yaml](https://gh-proxy.com/raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/nodev2ray.yaml) | 2025-11-19 |
+| [noddes/nodefree.yaml](https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/nodefree.yaml) |[noddes/nodefree.yaml](https://gh-proxy.com/raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/nodefree.yaml) | 2025-11-18 |
+| [nodes/v2rayshare.yaml](https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/v2rayshare.yaml) | [nodes/v2rayshare.yaml](https://gh-proxy.com/raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/v2rayshare.yaml) | 2025-11-18 |
+| [nodes/wenode.yaml](https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/wenode.yaml) | [nodes/wenode.yaml](https://gh-proxy.com/raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/wenode.yaml) | 2025-11-18 |
 
 
 ```  
