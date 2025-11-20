@@ -33,6 +33,21 @@
 注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
 
 ## 免费clash节点分享  <a href="" target="_blank">点击下载</a>
+
+## v2ray/clash 订阅列表:
+
+ | 订阅链接 | [镜像加速订阅链接](https://gh-proxy.com/) | 更新日期 |
+ | ---- | ---- | ---- |
+|[nodes/yudou66.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.yaml) | [nodes/yudou66.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.yaml) | 2025-11-17 |
+|[nodes/blues.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/blues.yaml)| [nodes/blues.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/blues.yaml) | 2025-11-18 |
+| [nodes/clashmeta.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.yaml) |[nodes/clashmeta.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.yaml) | 2025-10-13 |
+|[nodes/ndnode.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.yaml) |[nodes/ndnode.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.yaml) | 2025-11-19 |
+|[nodes/nodev2ray.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.yaml) |[nodes/nodev2ray.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.yaml) | 2025-11-19 |
+| [noddes/nodefree.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.yaml) |[noddes/nodefree.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.yaml) | 2025-11-18 |
+| [nodes/v2rayshare.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.yaml) | [nodes/v2rayshare.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.yaml) | 2025-11-18 |
+| [nodes/wenode.yaml](https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.yaml) | [nodes/wenode.yaml](https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.yaml) | 2025-11-18 |
+
+
 ```  
 port: 7890
 socks-port: 7891
