@@ -2,35 +2,33 @@ name: Regular Update
 
 on:
   schedule:
-    - cron:  '0 */4 * * *' # Run everyday at 12am in Beijing time
+    - cron: '0 */4 * * *'
+  workflow_dispatch: 
 
 jobs:
   update:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+    - name: Checkout code
+      uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: 3.12
+    - name: Update timestamp and content
+      run: |
+        sed -i "s/[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}/$(date +%Y-%m-%d)/g" README.md  
+        curl -s https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml > clash.yaml
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+    - name: Commit changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add README.md v2rayfree
+        git commit -m "自动更新: $(date +'%Y-%m-%d %H:%M')"
+        git push
 
-      - name: Run SimpleScraper
-        run: scrapy crawl simple
-
-      - name: Run DecryptScraper
-        run: scrapy crawl decrypt
-
-      - name: Git commit and push
-        uses: GuillaumeFalourd/git-commit-push@v1
-        with:
-          commit_message: "Regular update"
-          files: config.json README.md scrapy.log nodes/*
-          force: 1
-          empty: 1
+    - name: Delete workflow runs  
+      uses: Mattraks/delete-workflow-runs@main  
+      continue-on-error: true  
+      with:  
+        retain_days: 0  
+        keep_minimum_runs: 0 
