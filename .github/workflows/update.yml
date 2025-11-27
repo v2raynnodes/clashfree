@@ -3,11 +3,15 @@ name: Regular Update
 on:
   schedule:
     - cron: '0 */4 * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    # 👇 ADD THIS BLOCK HERE 👇
+    permissions:
+      contents: write
+    # 👆 TO FIX THE 403 PERMISSION ERROR 👆
 
     steps:
     - name: Checkout code
@@ -15,7 +19,7 @@ jobs:
 
     - name: Update timestamp and content
       run: |
-        sed -i "s/[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}/$(date +%Y-%m-%d)/g" README.md  
+        sed -i "s/[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}/$(date +%Y-%m-%d)/g" README.md
         curl -s https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml > clash.yaml
 
     - name: Commit changes
@@ -24,11 +28,11 @@ jobs:
         git config --global user.email "actions@github.com"
         git add README.md clash.yaml
         git commit -m "自动更新: $(date +'%Y-%m-%d %H:%M')"
-        git push
+        git push # This step will now succeed
 
-    - name: Delete workflow runs  
-      uses: Mattraks/delete-workflow-runs@main  
-      continue-on-error: true  
-      with:  
-        retain_days: 0  
-        keep_minimum_runs: 0 
+    - name: Delete workflow runs
+      uses: Mattraks/delete-workflow-runs@main
+      continue-on-error: true
+      with:
+        retain_days: 0
+        keep_minimum_runs: 0
