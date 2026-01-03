@@ -38,7 +38,7 @@
 
  | [镜像加速订阅链接](https://gh-proxy.com/) |
  | ---- |
-| [clash.yaml](https://gh-proxy.com/raw.githubusercontent.com/v2raynnodes/clashfree/main/clash.yaml) |
+| https://gh-proxy.com/raw.githubusercontent.com/v2raynnodes/clashfree/main/clash.yaml |
 
 ```  
 port: 7890
