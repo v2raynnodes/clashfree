@@ -16,6 +16,13 @@
 
 注：跳转链接可能会 被墙 ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
 ***
+
+### 高速机场推荐【<a href="https://www.futizi.net/?code=UQjFiejp" target="_blank">绿牛云</a>】
+
+- 绿牛云 - 稳定高速的绿色云加速服务
+- 绿牛云提供稳定、高速、安全的全球网络加速服务。精选优质线路，覆盖主流区域，帮助跨境办公、学习与娱乐保持顺畅连接。
+- 网站注册地址：【<a href="https://www.nfsq.us/#/register?code=CH8dmRTt" target="_blank">绿牛云（点击注册）</a>】
+***
 ### 🚀 [飞鸟加速            点击注册](https://www.112112789.xyz/?path=register&code=7Y5uXPTq)
 · 高速·稳定·无限可能
 
