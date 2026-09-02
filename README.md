@@ -1,4 +1,4 @@
-#  每日更新、clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程  更新时间 2026-9-1 08:48:36  
+#  每日更新、clash节点、免费clash节点、clash订阅链接、clash免费节点、clash科学上网、clash翻墙、clash for windows、clash教程  更新时间 2026-9-2 08:48:36  
 所有免费clash节点都爬取自网络，请勿用于非法用途 。
 
 ## clash使用教程：
@@ -10,7 +10,7 @@
 
 ### 高速机场推荐[【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
-无视高峰，不限制设备数量，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
+无视高峰，不限制设备数量，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择！
 
 ### 网站注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
