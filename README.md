@@ -5,7 +5,6 @@
 
 ## clash使用教程：
 
-<a href="https://yfuye.com/kehuduanshiyongjiaocheng/" target="_blank">clash科学上网：clash for windows 详细教程</a>
 
 ## clash订阅链接：
 见文章末尾
